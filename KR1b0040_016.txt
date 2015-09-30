@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書日記
-#+DATE: 2015-09-23 09:36:13
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:03:14.054879
+#+PROPERTY: ID KR1b0040
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1b0040_WYG_016-1a>¶
 欽定四庫全書¶
 　尚書日記卷十六　　　　明　王樵　撰¶
@@ -1028,4 +1030,3 @@
 　¶
 　¶
 　尚書日記卷十六¶
-
